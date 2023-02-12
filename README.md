@@ -9,8 +9,7 @@ The command interpreter is the backbone of the project and is used for data mani
 
 ### Starting the Command Interpreter
 To start the command interpreter, run the following command in your terminal:
-
-### python3 console.py
+'''bash python3 console.py '''
 
 ### Using the Command Interpreter
 The command interpreter supports a number of commands, including:
