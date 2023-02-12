@@ -16,12 +16,12 @@ python3 console.py
 ### Using the Command Interpreter
 The command interpreter supports a number of commands, including:
 
-create: Create a new object of a specified type
-show: Show an object of a specified type and ID
-all: Show all objects of a specified type
-update: Update an object of a specified type and ID
-destroy: Delete an object of a specified type and ID
-quit: Exit the command interpreter
+  - create: Create a new object of a specified type
+  - show: Show an object of a specified type and ID
+  - all: Show all objects of a specified type
+  - update: Update an object of a specified type and ID
+  - destroy: Delete an object of a specified type and ID
+  - quit: Exit the command interpreter
 
 Here are some examples of using the command interpreter:
 
