@@ -1,11 +1,13 @@
 #!/usr/bin/python3
-"""Defines the Place class."""
+"""Contains the Place model"""
 from models.base_model import BaseModel
 
 
 class Place(BaseModel):
-    """Represent a place.
-    Attributes:
+    """
+    Implements the Place model
+
+    Args:
         city_id (str): The City id.
         user_id (str): The User id.
         name (str): The name of the place.
@@ -18,7 +20,6 @@ class Place(BaseModel):
         longitude (float): The longitude of the place.
         amenity_ids (list): A list of Amenity ids.
     """
-
     city_id = ""
     user_id = ""
     name = ""
